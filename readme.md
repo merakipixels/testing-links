@@ -5,9 +5,13 @@
 
 ### ** Blogs & Articles**
 [Guru 99](https://www.guru99.com/) - Testing Blog
+
 [Tutorial's Point](https://www.tutorialspoint.com/java/index.htm) - Basic JAVA
+
 [Software Testing Help](https://www.softwaretestinghelp.com/) - Blog for Testing
+
 [Selinium Automation Blog](https://seleniumautomationtester.wordpress.com/)
+
 
 ### **Tools**
 
