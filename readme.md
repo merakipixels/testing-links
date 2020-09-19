@@ -3,7 +3,7 @@
 ### **Youtube Channels I folow**
 
 
-### ** Blogs & Articles**
+### **Blogs & Articles**
 [Guru 99](https://www.guru99.com/) - Testing Blog
 
 [Tutorial's Point](https://www.tutorialspoint.com/java/index.htm) - Basic JAVA
@@ -21,12 +21,16 @@
 
 [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview) - It is used to test applications, measuring system behaviour and performance under load. LoadRunner can simulate thousands of users concurrently using application software, recording and later analyzing the performance of key components of the application.
 
-[SoapUI](https://www.soapui.org/) - SoapUI is the world's most widely-used automated testing tool for SOAP and REST APIs. Its functionality covers web service inspection, invoking, development, simulation and mocking, functional testing, load and compliance testing.
-
 [Cucumber]() - Cucumber is a software tool that supports BDD. It allows expected software behaviors to be specified in a logical language that customers can understand.
 
 [Lambdatest]() - Cross Browser Testing Cloud to perform Live Interactive and Automated Cross Browser Testing on
 2000+ Real Browsers and Operating Systems Online.
+
+[Katalon Studio](https://www.katalon.com/homepage/) - Katalon Studio provides a common place to create and execute API/Web services, UI functional, and mobile testing
+
+[Karate](https://github.com/intuit/karate) - MicroServices API Testing Tool -opensource
+
+**Secondary Choices**
 
 [Mabl]() — A unified DevTestOps platform to run automated functional UI tests to check user experience, visual design, and performance.
 
@@ -38,13 +42,9 @@
 
 [Micro Focus Silk Test]() — For regression, cross-platform, and localization testing of all mobile application types, including mobile web, mobile native, and hybrid applications.
 
-[Postman]() — Automate many types of tests including unit tests, functional tests, integration tests, end-to-end tests, regression tests, and mock tests.
-
 [Ranorex]() — Build data-driven tests by adding links to data tables, spreadsheets, or databases and point-and-click to add parameters or conditions to test cases.
 
 [Smartbear TestComplete]() — An automated UI testing tool with a hybrid object and visual recognition engine to test every desktop, web, and mobile application.
-
-[Tricentis Tosca]() — A continuous testing platform, accelerates testing with a script-less, no-code approach for end-to-end test automation.
 
 [Accential Test]() — A complete feature set, covering the entire testing cycle: manage test plans, automated tests, manual tests, test data, test executions, results, and reporting.
 
@@ -58,7 +58,25 @@
 
 [WonderProxy]() — Flexible tools designed to test currencies, payment and shipping, languages, targeted content, promotions, and advertising.
 
-[Karate](https://github.com/intuit/karate) - MicroServices API Testing Tool -opensource
+
+
+**API Testing**
+
+[SoapUI](https://www.soapui.org/) - SoapUI is the world's most widely-used automated testing tool for SOAP and REST APIs. Its functionality covers web service inspection, invoking, development, simulation and mocking, functional testing, load and compliance testing.
+
+[Postman](https://www.postman.com/) — Automate many types of tests including unit tests, functional tests, integration tests, end-to-end tests, regression tests, and mock tests.
+
+[REST-assured](https://rest-assured.io/) - it is an open-source platform with Java Domain-specific language that makes testing REST service simpler.
+
+[JMeter](https://jmeter.apache.org/) - created for load testing, it is a fantastic tool for functional API testing.
+
+[Apigee](https://cloud.google.com/apigee) - Google The Cross-Cloud API Management Platform
+
+[Assertible](https://assertible.com/) - The easiest way to test and monitor your web services
+
+[Rest Console](https://github.com/geetarista/rest-console) - Rest console is an HTTP client, Request visualizer, and a constructor API testing tool that helps users debug, build, and test RESTful APIs.
+
+[Tricentis Tosca](https://www.tricentis.com/) — A continuous testing platform, accelerates testing with a script-less, no-code approach for end-to-end test automation.
 
 **Devops Tools**
 
@@ -80,16 +98,18 @@
 
 [SaltStack](https://www.saltstack.com/) - Salt is Python-based, open-source software for event-driven IT automation, remote task execution, and configuration management.
 
+### **Portfolios**
+
+[Pooja Singh](https://p00j4.github.io/) 
 
 
-
-### **Books**
+<!-- ### **Books**
 
 ### **Cources**
 
 #### Paid Cources
 
-#### Free Cources
+#### Free Cources -->
 
 
 
